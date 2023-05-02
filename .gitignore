@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+
+zig-out
+zig-cache
+out
+.idea
